@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit Verma
 - 👀 I’m interested in Web-development and DSA
-- 🌱 I’m currently learning MERn
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @arpitvermaji22@gmail.com
 - 😄 Pronouns: ...
